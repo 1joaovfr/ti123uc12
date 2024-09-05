@@ -1,4 +1,4 @@
-# TI1.23 - UC12
+# TI 1.23 - UC12
 
 - Professor: Rodrigo
 - Alunos:
