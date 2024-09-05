@@ -7,3 +7,7 @@
   - João Fernandes
   - Jhow jhow
   - Ryan
+
+## pyside
+
+PySide é um wrapper multiplataforma da linguagem Python para a biblioteca Qt. :)
