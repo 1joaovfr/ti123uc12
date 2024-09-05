@@ -5,6 +5,9 @@ class Pessoa:
     def __init__(self, nome):
         self.nome = nome
 
+    def nome_completo(self):
+        return f'{self.nome} {self.sobrenome}'
+
     def __str__(self):
         return f"Pessoa(nome='{self.nome}')"
 
